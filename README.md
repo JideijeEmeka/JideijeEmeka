@@ -2,17 +2,17 @@
 
 <h3 align="center">A passionate mobile developer and flutter engineer with four years of professional experience. I write dart codes to build custom reusable widgets used across all screens in any mobile app.</h3>
 
-- 🔭 I’m currently working on [Astravest app](https://github.com/astravest/mobile)
+- 🔭 I’m currently working on a new flutter app.
 
 - 🌱 I’m currently learning **Flutter, dart, Java, Node.js, Kotlin, Appetize.io**
 
-- 👨‍💻 All of my projects are available at [emekajideije.vercel.app](emekajideije.vercel.app)
+- 👨‍💻 All of my projects are available at [my portfolio](emekajideije.vercel.app)
 
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **jideije.emeka@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1czLJKQ7hS_M0hqX0J4XBMWDQeAqVCEs74iwASWcHr6I/edit?usp=drivesdk](https://docs.google.com/document/d/1czLJKQ7hS_M0hqX0J4XBMWDQeAqVCEs74iwASWcHr6I/edit?usp=drivesdk)
+- 📄 Know about my experiences [my resume](https://docs.google.com/document/d/1GFm9I0xDjuEMMbNXG0hZsI0OCjFa3aE4b-rTTAXNKy0/edit?usp=sharing)
 
 <h3 align="left">Languages and Tools:</h3>
 
