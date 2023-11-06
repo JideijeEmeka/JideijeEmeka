@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emeka Jideije</h1>
 
-<h3 align="center">A passionate mobile developer and flutter engineer with three solid years of coding experience. I write both dart and Java codes to build custom reusable widgets used across all screens in any mobile app.</h3>
+<h3 align="center">A passionate mobile developer and flutter engineer with four years of professional experience. I write dart codes to build custom reusable widgets used across all screens in any mobile app.</h3>
 
 - 🔭 I’m currently working on [Astravest app](https://github.com/astravest/mobile)
 
