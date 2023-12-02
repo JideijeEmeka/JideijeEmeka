@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on a new flutter app.
 
-- 🌱 I’m currently learning **Flutter, dart, Java, Node.js, Kotlin, Appetize.io**
+- 🌱 I’m currently learning **Flutter, React Native, dart, Java, Node.js, Kotlin, Appetize.io**
 
 - 👨‍💻 All of my projects are available at [my portfolio](emekajideije.vercel.app)
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter** **React Native**
 
 - 📫 How to reach me **jideije.emeka@gmail.com**
 
