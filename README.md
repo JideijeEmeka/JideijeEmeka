@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [my portfolio](emekajideije.vercel.app)
 
-- 💬 Ask me about **Flutter** **React Native**
+- 💬 Ask me about **Flutter** and **React Native**
 
 - 📫 How to reach me **jideije.emeka@gmail.com**
 
